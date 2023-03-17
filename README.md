@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Code <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-- In this respository we created a  class MyList and a module MyEnumerable.The module MyEnumerable implemented a subset of the functionality of Enumerable.
+- Within this repository, we have developed a `MyList` class, along with a `MyEnumerable` module that provides a subset of the functionality found within `Enumerable`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ cd clone https://github.com/yash244466666/Enumerable
 ```
 Navigate into the cloned folder or repository by running the command:
 ```JavaScript
- cd <folder/name of the repository>
+ cd Enumerable
  ```
  If VsCode is your default code editor, run:
  ```JavaScript
